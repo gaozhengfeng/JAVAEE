@@ -1,2 +1,2 @@
 # JAVAEE
-study Java
+The aim is study java
